@@ -2,8 +2,8 @@
 • AWS EC2 instance (Ubuntu) with instance type t2.large and root volume 29GB.
 
 • Jenkins installed
-    Reference: jenkins.io/doc/book/installing/linux/#long-term-support-release
-     first need to install java because Jenkins made on java
+    Reference:  jenkins.io/doc/book/installing/linux/#long-term-support-release 
+    first need to install java because Jenkins made on java
     
      sudo apt update
      sudo apt install fontconfig openjdk-17-jre
