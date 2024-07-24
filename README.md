@@ -119,6 +119,9 @@
                 
    • -itd : interactive and deattach mode means work in the background)
    -p : run on 9000 port , name SonarQube lts latest version 
+
+![image](https://github.com/user-attachments/assets/b2f3ca21-1192-42a1-b23c-7628a455136e)
+
    
 • For check sonar is run or not on port :9000
        
