@@ -1,3 +1,4 @@
+![Screenshot 2024-07-24 131353](https://github.com/user-attachments/assets/8b910df9-c00d-4cab-9b15-31ece67f0159)
 
 • AWS EC2 instance (Ubuntu) with instance type t2.large and root volume 29GB.
 
