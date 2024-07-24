@@ -122,6 +122,13 @@
 • For check sonar is run or not on port :9000
        
        docker ps 
+• for restart container 
+
+      docker ps -a
+Copy Docker CONTAINER ID   
+       
+     docker start <CONTAINER ID>
+     docker ps -a / docker ps
 
 • For start the SonarQube after restart the system.
 
