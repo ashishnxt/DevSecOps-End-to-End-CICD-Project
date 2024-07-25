@@ -98,7 +98,7 @@
 
 
 
-• Parsing file /var/lib/jenkins/workspace/wanderlust-ci-cd/dependency-check-report.xmt
+• Parsing file /var/lib/jenkins/workspace/jenkins-sonarqube/dependency-check-report.xmt
 
   • because Jenkins have not permission to access docker compose for deploy the app.
     add Jenkins user in the docker group for access the docker 
