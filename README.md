@@ -51,9 +51,7 @@
 
     pipeline {
     agent any
-    environment {
-    SONAR_PIPE = tool "sonar"
-    }
+
     stages {
        stage("code") {   
             steps {    
