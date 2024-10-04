@@ -34,7 +34,7 @@
 • Jenkins Plugins Installation:
    Go to Manage Jenkins, click on Plugins and install all the plugins listed below, we will require for other tools integration:
 
-   •pipleline stage view  
+   •pipleline stage view  (for view the stage in jenkings) 
    •SonarQube Scanner (Version2.16.1)  
    •Sonar Quality Gates (Version1.3.1)  
    •OWASP Dependency-Check (Version5.4.3)
